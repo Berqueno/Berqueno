@@ -1,1 +1,1 @@
-[![BRQ](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=650&color=fff&width=1200&height=80&lines=Hi%2C+I'm+Berqueno.;I'm+a+Full+Stack+Developer.)](https://git.io/typing-svg)
+[![BRQ](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FFFFFF&width=485&lines=Hi%2C+I'm+Berqueno.;I'm+Full+Stack+Developer.)](https://git.io/typing-svg)
